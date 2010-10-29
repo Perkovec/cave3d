@@ -1,5 +1,1 @@
-= Video=
-
-<wiki:video url="http://www.youtube.com/watch?v=3LkNlTNHZzE"/>
-
-= Details =
+<wiki:video url="http://www.youtube.com/watch?v=KIEY3py5w1k"/>
