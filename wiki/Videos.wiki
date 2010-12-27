@@ -1,1 +1,4 @@
+==The video captured with r9==
+<wiki:video url="http://www.youtube.com/watch?v=Kpw9AsMgfQE"/>
+==The first video==
 <wiki:video url="http://www.youtube.com/watch?v=KIEY3py5w1k"/>
